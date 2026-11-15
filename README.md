@@ -1,5 +1,7 @@
 # DeepSeek Chat Demo 增强版
 
+[English](README.en.md)
+
 基于 [DeepSeek Chat Demo](https://github.com/deepseek-ai/chat-demo)，增加全局记忆、对话压缩和四档思考强度。
 
 [打开在线版](https://wenpu0425-hub.github.io/DeepSeek_Chat_Demo_Enhance/)
